@@ -1,0 +1,32 @@
+*{
+    background:  color: rgb(49, 120, 25);
+    
+}
+.about{
+    position: absolute;
+    margin-left: 40%;
+    top: 1%;
+    font-size: large;
+}
+.img{
+    border-radius:150px ;
+    margin-left: auto;
+}
+.main{
+    display: flex;
+    padding: 10px;
+}
+.container1{
+    width: 30%;
+}
+.container2{
+    width: 65%;
+   margin-left: 20%;
+}
+.topsection{
+    background-color: skyblue;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
